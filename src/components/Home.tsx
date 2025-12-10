@@ -25,7 +25,7 @@ export default function Home() {
       {/* Header */}
       <div className="sticky top-0 bg-white z-10 px-6 pt-6 pb-4 border-b border-gray-100">
         <div className="flex items-center justify-between mb-4">
-          <h1 className="text-[#0A1F44] text-3xl tracking-wider">SOLVRA</h1>
+          <h1 className="text-[#0A1F44] text-2xl tracking-wider">MyPersonalShopper</h1>
           <div className="flex gap-4">
             <button onClick={() => navigate('/profile')} className="text-[#0A1F44]">
               <User size={24} />
@@ -162,7 +162,7 @@ export default function Home() {
                   </span>
                 )}
               </div>
-              <span className="text-xs">Carret</span>
+              <span className="text-xs">Favorits</span>
             </div>
           </button>
         </div>

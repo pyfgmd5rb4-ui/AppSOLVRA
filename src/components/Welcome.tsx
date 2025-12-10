@@ -13,7 +13,7 @@ export default function Welcome() {
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
         <div className="absolute bottom-0 left-0 right-0 p-6">
-          <h1 className="text-white text-5xl tracking-wider mb-2">SOLVRA</h1>
+          <h1 className="text-white text-3xl tracking-wider mb-2">MyPersonalShopper</h1>
           <p className="text-white/90 text-lg">El teu estil, a la teva manera</p>
         </div>
       </div>

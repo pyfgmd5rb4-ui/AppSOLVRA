@@ -18,7 +18,7 @@ export default function Splash() {
   return (
     <div className="fixed inset-0 bg-[#0A1F44] flex flex-col items-center justify-center px-6">
       <div className="text-center">
-        <h1 className="text-white text-6xl tracking-widest mb-8">SOLVRA</h1>
+        <h1 className="text-white text-3xl tracking-widest mb-8">MyPersonalShopper</h1>
         <p className="text-white/90 text-xl">El teu estil, a la teva manera</p>
       </div>
     </div>
