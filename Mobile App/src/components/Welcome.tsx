@@ -5,9 +5,9 @@ export default function Welcome() {
 
   return (
     <div className="min-h-screen bg-white flex flex-col">
-      <div className="flex-1 relative">
+      <div className="relative h-[60vh] sm:h-[65vh] md:h-[70vh]">
         <img
-          src="https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800&q=80"
+          src="https://i.pinimg.com/1200x/11/eb/91/11eb91c0843ba3670df3354c9996b042.jpg"
           alt="Fashion cover"
           className="w-full h-full object-cover"
         />
